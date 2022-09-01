@@ -1,8 +1,14 @@
 @font-face {
-  font-family: 'shiwei';
-  font-display: swap;
-  src: url('../font/shiwei.TTF') format("truetype"); 
+  font-family:'arzhu';
+  src:url('/img/shiwei.ttf'); /* 修改成你的字体 */
+  font-display:swap
 }
-body {
-    font-family: 'shiwei';
+h1#site-title {
+  font-family:arzhu!important
+}
+span#subtitle {
+  font-family:arzhu!important
+}
+a#site-name {
+  font-family:arzhu!important
 }
