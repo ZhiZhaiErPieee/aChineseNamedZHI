@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SweiSansCJKtc';
+    src: url('../../fonts/PingFang-Bold.ttf');
+}
+
+.layout_post .post-copyright .post-copyright-info a {
+    text-decoration: none;
+}
