@@ -1,0 +1,13 @@
+/* 博主昵称颜色 */
+.author-info__name {
+    color: #f5a16a;
+}
+
+/* 首页中间打字效果上方 博客昵称颜色*/
+#page-header #site_title {
+    color: #ffffff;
+}
+/* 顶部导航栏 博客昵称颜色*/
+#nav a {
+    color: #ffd4e0;
+}
