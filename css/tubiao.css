@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3624819 */
+  src: url('//at.alicdn.com/t/c/font_3624819_zm6okgpi3e9.woff2?t=1662040685850') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3624819_zm6okgpi3e9.woff?t=1662040685850') format('woff'),
+       url('//at.alicdn.com/t/c/font_3624819_zm6okgpi3e9.ttf?t=1662040685850') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+  content: "\e8c7";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\e63c";
+}
+
+.icon-twitch:before {
+  content: "\e84a";
+}
+
+.icon-minecraft:before {
+  content: "\e7f9";
+}
+
+.icon-xiankuangjiazaishibaidaitiicon:before {
+  content: "\e6e1";
+}
+
+.icon-facebook:before {
+  content: "\e87d";
+}
+
+.icon-instagram:before {
+  content: "\e87f";
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-twitter:before {
+  content: "\e883";
+}
+
+.icon-Youtube-fill:before {
+  content: "\e884";
+}
+
+.icon-tiktok:before {
+  content: "\e600";
+}
+
+.icon-discord:before {
+  content: "\e675";
+}
+
+.icon-douyin:before {
+  content: "\e8db";
+}
+
