@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>about me 关于我！</title>
+      <link href="/posts/about-me/"/>
+      <url>/posts/about-me/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li><h1 id="前序"><a href="#前序" class="headerlink" title="前序"></a>前序</h1></li></ul><p><strong>这是第一篇我正式写的文章，而且是介绍我自己的。</strong></p><p>希望你能通过阅读这篇文章（或者这类标签的文章）能更好的了解<em>“这么帅气的”</em>我！！</p><p><img src="/img/QQ%E6%88%AA%E5%9B%BE01.png" alt="😂我和我的冤种大闺蜜一起谈论怎么样才能写出一篇优秀的自我介绍的文章并且能达到很多的字数🤣"></p><hr>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 自我介绍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World (你好世界？！)</title>
       <link href="/posts/%E5%BD%98%E5%AE%85%E5%84%BFpie%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%9AHello_World/"/>
       <url>/posts/%E5%BD%98%E5%AE%85%E5%84%BFpie%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%9AHello_World/</url>
@@ -11,6 +30,12 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><p>translate: 欢迎来到<a href="https://hexo.io/">Hexo</a>！这是你的第一篇文章。检查<a href="https://hexo.io/docs/">文档</a>以获取更多信息。如果你在使用 Hexo 的过程中遇到任何问题，可以在<a href="https://hexo.io/docs/troubleshooting.html">问题排查</a>中找到答案，也可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><em>translate:快速开始</em></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p><em>translate:创建一个新文章</em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><p><em>translate:更多信息： <a href="https://hexo.io/docs/writing.html">Writing</a></em></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><p><em>translate:运行</em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><p><em>translate:更多信息：<a href="https://hexo.io/docs/server.html">Server</a></em></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><p><em>translate:生成静态文件</em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><p><em>translate:更多信息：<a href="https://hexo.io/docs/generating.html">Generating</a></em></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><p><em>translate:部署到远程站点</em></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p><em>translate:更多信息：<a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></em></p><hr><h3 id="有一说一"><a href="#有一说一" class="headerlink" title="有一说一"></a>有一说一</h3><p>为什么要留下来这个文章，那是因为这个文章很有纪念意义，在刚开始的时候这是自动生成的文章所以我就没有管它，当我弄好我的博客美化的时候就想这篇文章也是看着我从头弄到尾的，所以就不删除了，再把它翻译成中文还可以留着以后使用非常方便！</p><h4 id="人话："><a href="#人话：" class="headerlink" title="人话："></a>人话：</h4><p>一开始写不出来文章也不能把我的博客空着啊…所以只能留下来了。</p><p>但太丑了我也不想自己写什么只能翻译</p><h6 id="以后也不会删除！"><a href="#以后也不会删除！" class="headerlink" title="以后也不会删除！"></a>以后也不会删除！</h6>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 博客第一篇儿 </tag>
+            
+        </tags>
       
     </entry>
     
